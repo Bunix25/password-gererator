@@ -3,7 +3,7 @@
  The website was developed to generate random passwords, following various criteria.where the user select which criteria to include in the password.The first thing the user must do is click on the generate password button and then the site a series of messages asking for the criteria of the password.
 
 
- ![Homepage have a red botton for generator password](![Alt text](Screenshot.png))
+ ![Homepage have a red botton for generator password](Screenshot.png)
 
   _____________________________________________________________________
 
