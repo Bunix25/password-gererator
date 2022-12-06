@@ -6,7 +6,7 @@
 
   _____________________________________________________________________
 
- ## Visit the site! [Password Generator ](https:)
+ ## Visit the site! [Password Generator ](https://bunix25.github.io/password-gererator/)
 
  
 # Installation 
