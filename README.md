@@ -36,8 +36,8 @@ When the user has selected their password criteria, then they will be shown thei
 
   If you have questions about the project, below you can find ways to answer them, either by visiting my highub or contacting me by email
   
-  Link to my Github: [anniavd](https://github.com/Bunix25)
+  Link to my Github:(https://github.com/Bunix25)
 
   
-  Email acount: [annia.valded@gmail.com](mail to:Svattt7@gmail.com)
+  Email acount:(mail to:Svattt7@gmail.com)
     
