@@ -29,7 +29,6 @@ When the user has selected their password criteria, then they will be shown thei
 # Technologies 
  - HTML5
 - CSS3
-- EXPRESS
 - JAVASCRIPT
 
 # Questions
